@@ -12,9 +12,11 @@ DengTa 灯塔加速器机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
+`此邀请码注册，可得4天试用套餐`
 ```bash
 H7KNKY
 ```
+![image](https://github.com/jdnei/dengta/blob/main/dengta/capcap-261116-094957.png?raw=true)
 ## 优惠码/折扣码
 ```bash
 
